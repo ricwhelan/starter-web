@@ -22,4 +22,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
-2020 Richard
+2020 Richard, All rights 
