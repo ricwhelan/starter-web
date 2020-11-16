@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a sample website project for showing how Git and GitHub work together.
+This is a sample website project for showing how Git and GitHub work together. 
+Adding a line here.
 
 ## Introduction
 
